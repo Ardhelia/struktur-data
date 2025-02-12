@@ -1,1 +1,1 @@
-penjelasan koding 
+amanda 
