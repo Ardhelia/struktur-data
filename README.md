@@ -1,1 +1,1 @@
-nama
+penjelasan koding 
