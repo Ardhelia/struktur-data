@@ -20,6 +20,10 @@ int[] harga = new int[100];
     Array harga untuk menyimpan harga dari menu yang dipesan.
 int[] kuantitasBeli = new int[100];
     Array kuantitasBeli untuk menyimpan jumlah pesanan setiap menu.
+ System.out.println("=== Selamat Datang di Kafe ===");
+ System.out.println();
+ System.out.println("=== Menu ===");
+    Mencetak pesan selamat datang dan judul menu.
 
 
 
