@@ -18,7 +18,8 @@ String[] namaPesanan = new String[100];
     array namaPesanan untuk menyimpan nama menu yang telah dipesan.
 int[] harga = new int[100];
     Array harga untuk menyimpan harga dari menu yang dipesan.
-
+int[] kuantitasBeli = new int[100];
+    Array kuantitasBeli untuk menyimpan jumlah pesanan setiap menu.
 
 
 
