@@ -1,4 +1,4 @@
-Latihan1
+//Latihan1
 public class Tugas1_P2  {
 //kelas publik bernama Tugas1_P2    
     public static void main(String[] args) {
