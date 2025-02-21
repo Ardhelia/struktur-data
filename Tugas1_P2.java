@@ -11,18 +11,24 @@ public class Tugas1_P2  {
 
         // Mengisi array
         for (int i = 0; i < bilanganGenap.length; i++) {
-        //
+        //loop for mengisi array dengan bilangan genap mulai dari 2. 
             bilanganGenap[i] = (i + 1) * 2;
+        //baris ini mengisi setiap elemen array bilanganGenap dengan bilangan genap.   
         }
 
         // Menampilkan array
         System.out.println("Isi array:");
+        //Baris ini mencetak teks "Isi array:" 
         for (int bilangan : bilanganGenap) {
+        //loop foreach yang mengiterasi setiap elemen dari array.  
             System.out.print(bilangan + " ");
+        //mencetak setiap elemen array diikuti dengan spasi.  
             jumlah += bilangan;
+        //baris ini menambahkan nilai setiap elemen array ke variabel jumlah. 
         }
 
         System.out.println("\\nJumlah semua elemen: " + jumlah);
+        //Baris ini mencetak baris baru (\n) dan teks "Jumlah semua elemen: " diikuti dengan nilai variabel jumlah.
     }
 }
  
