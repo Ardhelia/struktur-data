@@ -1,6 +1,6 @@
 Latihan1
-public class LatihanArray1 {
-//kelas publik bernama LatihanArray1    
+public class Tugas1_P2  {
+//kelas publik bernama Tugas1_P2    
     public static void main(String[] args) {
        //metode utama di mana eksekusi program dimulai.
         int[] bilanganGenap = new int[10];
