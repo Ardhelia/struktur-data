@@ -37,6 +37,6 @@ public class PencarianArray {
             //Jika nilai tidak ditemukan (ketemu bernilai false).
             System.out.println("Nilai " + cari + " tidak ditemukan");
             //Jika nilai tidak ditemukan, baris ini mencetak pesan yang menunjukkan bahwa nilai tidak ditemukan.
-        }
+        } 
     }
 }
