@@ -35,3 +35,4 @@ public class StatistikArray {
         //Baris-baris tersebut mencetak nilai tertinggi, nilai terendah, dan rata-rata ke terminal.
     }
 }
+
